@@ -23,9 +23,6 @@
 - ⚡ Optimizing **GPU parallel computing** for real-time imaging pipelines
 - 🔧 Hands-on with **FPGA + GPU heterogeneous architectures** and **high-speed PCIe data acquisition**
 
-<p align="center">
-  <img src="./profile-photo.png" width="150" height="150" alt="avatar" style="border-radius: 50%;" />
-</p>
 
 ---
 
