@@ -102,7 +102,7 @@
 
 ## 📦 Software Copyrights
 
-1. **Intelligent Camera Host Computer Control Software V1.0** — Copyright Owners: Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences; Xi'an Jiaotong University. Registration No.: 2024SR0077750. Development Completed: November 2, 2023. First Published: Not published. Registered: January 11, 2024.
+1. **Intelligent Camera Host Computer Control Software V1.0** — Copyright Owners: Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences; Xi'an Jiaotong University. Registration No.: 2024SR0077750. 
 
 ## 🏆 Honors & Awards
 
@@ -116,26 +116,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- 占位卡片：将 your-username 替换为你的 GitHub 用户名 -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:spectrum_001@163.com">
     <img src="https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/peterfan535">
     <img src="https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.ucas.ac.cn/">
@@ -153,8 +141,4 @@
 *Made with ❤️ at University of Chinese Academy of Sciences & Xi'an Jiaotong University*
 
 </div>
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
+
