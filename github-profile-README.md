@@ -121,10 +121,10 @@
 
 <p align="center">
   <a href="mailto:spectrum_001@163.com">
-    <img src="https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/spectrum_001@163.com%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/peterfan535">
-    <img src="https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-peterfan535-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.ucas.ac.cn/">
     <img src="https://img.shields.io/badge/UCAS%20%26%20XJTU-Co%20trained%20PhD%20Program-1F4E79?style=for-the-badge&logo=school&logoColor=white" alt="UCAS & XJTU" />
