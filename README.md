@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi there, I'm Yao Fan
@@ -14,7 +13,7 @@
 
 ---
 
-## 🧑‍🔬 About Me
+## 🧑🔬 About Me
 
 - 🎓 **PhD**, Joint-trained by University of Chinese Academy of Sciences (UCAS) & Xi'an Jiaotong University (XJTU), working at the intersection of **optics and AI**
 - 🔭 Researching **wavefront sensing** and **intelligent optical imaging** systems
@@ -22,6 +21,14 @@
 - ⚡ Optimizing **GPU parallel computing** for real-time imaging pipelines
 - 🔧 Hands-on with **FPGA + GPU heterogeneous architectures** and **high-speed PCIe data acquisition**
 
+
+---
+
+## 🎓 Education
+
+- 🎓 **Ph.D.** — Joint-trained by University of Chinese Academy of Sciences (UCAS) & Xi'an Jiaotong University (XJTU)
+- 🎓 **M.S.** in Electromagnetic Field and Microwave Technology — University of Chinese Academy of Sciences (UCAS)
+- 🎓 **B.E.** in Information Engineering — Xi'an Jiaotong University (XJTU)
 
 ---
 
@@ -136,4 +143,3 @@
 *Made with ❤️ at University of Chinese Academy of Sciences & Xi'an Jiaotong University*
 
 </div>
-
