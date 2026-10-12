@@ -117,7 +117,7 @@
 
 <p align="center">
   <a href="mailto:spectrum_001@163.com">
-    <img src="https://img.shields.io/badge/spectrum_001@163.com%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/spectrum_001@163.com%40-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/peterfan535">
     <img src="https://img.shields.io/badge/GitHub-peterfan535-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
