@@ -32,6 +32,12 @@
 
 ---
 
+## 💼 Work Experience
+
+- 💼 **Senior Engineer** — Xi'an Institute of Optics and Precision Mechanics (XIOPM), Chinese Academy of Sciences (CAS)
+
+---
+
 ## 🔬 Research Interests
 
 | Area | Details |
