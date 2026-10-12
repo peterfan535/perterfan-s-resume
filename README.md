@@ -16,7 +16,7 @@
 
 ## 🧑‍🔬 About Me
 
-- 🎓 **PhD**, co-trained by University of Chinese Academy of Sciences (UCAS) & Xi'an Jiaotong University (XJTU), working at the intersection of **optics and AI**
+- 🎓 **PhD**, Joint-trained by University of Chinese Academy of Sciences (UCAS) & Xi'an Jiaotong University (XJTU), working at the intersection of **optics and AI**
 - 🔭 Researching **wavefront sensing** and **intelligent optical imaging** systems
 - 🤖 Exploring **state space models (Mamba)** for optical/imaging applications
 - ⚡ Optimizing **GPU parallel computing** for real-time imaging pipelines
