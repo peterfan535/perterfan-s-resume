@@ -3,9 +3,8 @@
 
 # 👋 Hi there, I'm Yao Fan
 
-### PhD · Co-trained by University of Chinese Academy of Sciences (UCAS) & Xi'an Jiaotong University (XJTU)
+### PhD · Joint-trained by University of Chinese Academy of Sciences (UCAS) & Xi'an Jiaotong University (XJTU)
 
-*Co-trained by University of Chinese Academy of Sciences (UCAS) & Xi'an Jiaotong University (XJTU)*
 
 **Wavefront Sensing · Intelligent Optical Imaging · State Space Models (Mamba) · GPU Parallel Computing**
 
